@@ -1,0 +1,7 @@
+C:\M03\botigacistellaarrays\botigacistellaarrays\obj\Debug\botigacistellaarrays.csproj.AssemblyReference.cache
+C:\M03\botigacistellaarrays\botigacistellaarrays\obj\Debug\botigacistellaarrays.csproj.CoreCompileInputs.cache
+C:\M03\botigacistellaarrays\botigacistellaarrays\bin\Debug\botigacistellaarrays.exe.config
+C:\M03\botigacistellaarrays\botigacistellaarrays\bin\Debug\botigacistellaarrays.exe
+C:\M03\botigacistellaarrays\botigacistellaarrays\bin\Debug\botigacistellaarrays.pdb
+C:\M03\botigacistellaarrays\botigacistellaarrays\obj\Debug\botigacistellaarrays.exe
+C:\M03\botigacistellaarrays\botigacistellaarrays\obj\Debug\botigacistellaarrays.pdb
